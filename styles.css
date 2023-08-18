@@ -1,6 +1,6 @@
 #yellow{
 	background-color:yellow;
-	border:1px solid black;
+	border:1px solid green;
 }
 #red{
 	background-color:red;
@@ -8,6 +8,6 @@
 }
 #green{
 	background-color:green;
-	border:1px solid black;
+	border:1px solid yellow;
 }
 /*  your css code here. If applicable */
